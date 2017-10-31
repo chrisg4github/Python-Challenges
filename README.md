@@ -8,6 +8,7 @@ A Python Homework working directory for Data Analytics class.
 
 - myPyParagraph - Python programming parsing paragraphs.
 
-- myPySurf - DataFrame.plot(), API.
+- myPySurf - Jupyter Notebooks, DataFrame.plot(), Flask API.
 
 - myPyWeather - Jupyter Notebooks, Matplotlib, API, Data Analysis.
+
