@@ -1,6 +1,6 @@
 # Python-Challenges
 
-A Python Homework working directory for Data Analytics class.
+A Python working directory for Data Analytics class.
 
 - myPyBer - Jupyter Notebooks, Matplotlib, Data Analysis.
 
