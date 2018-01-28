@@ -2,7 +2,7 @@
 
 A directory for pure Python programming.
 
-![PyBoss Python Program](./myPyBoss/images/boss.jpg)
+![PyBoss Python Program](./boss.jpg)
 
 #### myPyBoss
 
@@ -16,7 +16,7 @@ A directory for pure Python programming.
 
 
 
-#### myPyParagraph![PyParagraph Python Program](./myPyParagraph/images/language.jpg)
+#### myPyParagraph![PyParagraph Python Program](./language.jpg)
 
 - myPyParagraph - Python programming parsing random paragraphs.
 
